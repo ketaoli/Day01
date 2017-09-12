@@ -55,6 +55,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     public void onSaveInstanceState(Bundle outState) {
         super.onSaveInstanceState(outState);
+        //傻逼毛洁丽
         Log.e("TAG","onSaveInstanceState");
     }
 
